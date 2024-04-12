@@ -1,0 +1,4 @@
+C:\Users\sevam\source\repos\Project15\Project15\x64\Debug\Project15.vcxproj.AssemblyReference.cache
+C:\Users\sevam\source\repos\Project15\Project15\x64\Debug\Project15.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\sevam\source\repos\Project15\Project15\x64\Debug\Project15.MyForm1.resources
+C:\Users\sevam\source\repos\Project15\Project15\x64\Debug\Project15.vcxproj.GenerateResource.cache
